@@ -13,7 +13,7 @@ DragonFF isn't just a file converter—it's built with gaming-specific detail in
 # How to download and install it?
 1. Go to the official repository: https://github.com/Parik27/DragonFF or get it here.
 2. Download the zip folder, then extract it and delete the zip.
-3. Open blender, then go to Edit > Preferences > Search "Dragon FF" extension inside Preferences, then click install (By the waay if there is any caused issue, then do not extract).
+3. Open blender, then go to Edit > Preferences > Search "Dragon FF" extension inside Preferences, then click install (By the way if there is any caused issue, then do not extract).
 4. After that, go to Add-ons > then enable the "Dragon FFF" extension by turning it on and checking the box on like this ✅.
 <img width="668" height="553" alt="Image" src="https://github.com/user-attachments/assets/2ab93966-5dc3-4fb5-818c-ebcca221114e" />
 

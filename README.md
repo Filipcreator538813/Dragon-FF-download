@@ -18,6 +18,7 @@ DragonFF isn't just a file converter—it's built with gaming-specific detail in
 <img width="668" height="553" alt="Image" src="https://github.com/user-attachments/assets/2ab93966-5dc3-4fb5-818c-ebcca221114e" />
 5. Import the character by closing the Preferences, then going to File > Import, Which by installing and enabling Dragon FF, You will see this option "Dragon FF DFF (.dff, col)" that now appears in Blender just like this. 
 <img width="606" height="601" alt="Image" src="https://github.com/user-attachments/assets/d9f99c07-978b-4042-925f-708af245cf6d" />
+
 6. Once you click Dragon FF DFF (.dff, col), Find the DFF file of any GTA SA characters to import into blender.
 7. If you cannot find the DFF File, then here is a tip how to get the DFF file first.
 # How to get DFF file?

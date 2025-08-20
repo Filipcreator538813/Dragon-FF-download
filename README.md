@@ -30,6 +30,6 @@ DragonFF isn't just a file converter—it's built with gaming-specific detail in
 5. Once you now have the DFF and TXD File inside that created folder, go back to Blender > Click File > Import > Dragon FF DFF (.dff, col)
 6. Go to the created folder location, then select the DFF file to add the character into Blender.
 7. Apply "Load TXD File" and "Scan for images" then import it.
-8. You will see that when the DFF File is imported after applying "Load TXD File" that the character has both full body and added textures correctly, but to make sure is not broken.
+8. You will see that when the DFF File is imported after applying "Load TXD File" the character has both full body and added textures correctly, but to make sure is not broken.
 9. To animate GTA SA character with Blender, You can add bones into a character to control it's full body, then adding keyframes for the movement.
 You can now enjoy using and animating the GTA SA character!
